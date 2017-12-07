@@ -2,6 +2,8 @@
 
 Simple CRUD (Create, Read, Update and Delete) using Phalcon Framework
 
+![alt tag](https://github.com/burhanudinyahya/crud_by_phalcon/raw/master/crud_by_phalcon.jpg)
+
 ## Tools dan Framework
 * Apache 2.4.25
 * MariaDB 10.1.23
